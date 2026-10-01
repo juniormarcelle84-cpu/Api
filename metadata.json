@@ -1,0 +1,6 @@
+{
+  "name": "APIMatch",
+  "description": "Discover, test live, and generate starter code for 80+ free public APIs with AI matching and outage tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
